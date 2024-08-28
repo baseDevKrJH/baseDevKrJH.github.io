@@ -10,3 +10,19 @@ main:
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
+
+sidebar-category:
+  - title: "카테고리"
+    children:
+      - title: "JAVA"
+        url: "/java"
+        category: "java"
+      - title: "Spring"
+        url: "/spring"
+        category: "spring"
+      - title: "Database"
+        url: "/database"
+        category: "database"
+      - title: "LIFE"
+        url: "/life"
+        category: "life"

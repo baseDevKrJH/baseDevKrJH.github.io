@@ -278,6 +278,8 @@ defaults:
       comments: # true
       share: true
       related: true
+      sidebar: # 추가한 부분
+        nav: "sidebar-category" # 추가한 부분
 
 destination: ../[GitHubPage]/
 production_url: https://baseDevKrJH.github.io/ # 최종적으로 blog가 운영될 url
